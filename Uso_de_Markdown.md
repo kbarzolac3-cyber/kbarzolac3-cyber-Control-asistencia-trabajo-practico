@@ -24,3 +24,11 @@ Se utiliza masivamente en proyectos de software (especialmente en archivos `READ
 | :--- | :--- |
 | Celda 1.1 | Celda 1.2 |
 | Celda 2.1 | Celda 2.2 |
+* Elemento 1
+* Elemento 2
+    * Un sub-elemento
+[Haz clic aquí para ir a Google](https://www.google.com)
+| Columna 1 | Columna 2 |
+|-----------|-----------|
+| Dato A    | Dato B    |
+| Dato C    | Dato D    |
