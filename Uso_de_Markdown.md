@@ -12,6 +12,17 @@ Se utiliza masivamente en proyectos de software (especialmente en archivos `READ
 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
 
+
+* Elemento 1
+* Elemento 2
+    * Un sub-elemento
+  
+| Columna 1 | Columna 2 |
+|:----------|-----------|
+| Dato A    | Dato B    |
+| Dato C    | Dato D    |
+
+
 ### Encabezados
 ```markdown
 # Encabezado Nivel 1
@@ -22,10 +33,12 @@ Se utiliza masivamente en proyectos de software (especialmente en archivos `READ
     * Sub-elemento 2.1
 1.  Elemento ordenado 1
 2.  Elemento ordenado 2
+
 | Columna 1 | Columna 2 |
-| :--- | :--- |
-| Celda 1.1 | Celda 1.2 |
-| Celda 2.1 | Celda 2.2 |
+|  ---------| --------- |
+| Celda 1. | Celda 1.|
+| Celda 2. | Celda 2. |
+
 * Elemento 1
 * Elemento 2
     * Un sub-elemento
