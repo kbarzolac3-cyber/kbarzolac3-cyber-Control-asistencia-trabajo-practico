@@ -10,6 +10,8 @@ Se utiliza masivamente en proyectos de software (especialmente en archivos `READ
 
 ## [cite_start]2. Ejemplo práctico de uso de Markdown [cite: 269]
 
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
+
 ### Encabezados
 ```markdown
 # Encabezado Nivel 1
@@ -27,8 +29,9 @@ Se utiliza masivamente en proyectos de software (especialmente en archivos `READ
 * Elemento 1
 * Elemento 2
     * Un sub-elemento
-[Haz clic aquí para ir a Google](https://www.google.com)
 | Columna 1 | Columna 2 |
 |-----------|-----------|
 | Dato A    | Dato B    |
 | Dato C    | Dato D    |
+
+![logo de Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
